@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="eatbus">Eatbus</string>
+    <string name="abnormal">Abnormal</string>
+    <string name="menu">Makanan</string>
+    <string name="porsi">Porsi</string>
+    <string name="dengan_milea">dengan Milea</string>
+</resources>
